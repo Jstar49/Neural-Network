@@ -12,6 +12,7 @@ MNIST数据集可通过 [下载链接](http://yann.lecun.com/exdb/mnist/) 下载
 
 关于神经网络算法的详解太过复杂，本人水平有限便不再描述，我这里只给出我们两人的代码。若想了解详情请移步谷歌或者百度。
 
+代码文件为load_mnist.py<br>
 **代码测试结果：**<br>
 ![result](images/2.png)<br><br>
 代价函数图像：<br>
